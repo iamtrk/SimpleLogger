@@ -1,10 +1,10 @@
-package com.cleartax.Writer;
+package com.iamtrk.Writer;
 
 
-import com.cleartax.Appender.Appender;
-import com.cleartax.Appender.AppenderImpl.FileAppender;
-import com.cleartax.Logger.Logger;
-import com.cleartax.Utilities.Level;
+import com.iamtrk.Appender.Appender;
+import com.iamtrk.Appender.AppenderImpl.FileAppender;
+import com.iamtrk.Logger.Logger;
+import com.iamtrk.Utilities.Level;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,9 +1,9 @@
-package com.cleartax.Writer;
+package com.iamtrk.Writer;
 
 
 
-import com.cleartax.Appender.Appender;
-import com.cleartax.Utilities.Level;
+import com.iamtrk.Appender.Appender;
+import com.iamtrk.Utilities.Level;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
